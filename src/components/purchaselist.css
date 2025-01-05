@@ -1,9 +1,9 @@
-/* Custom styles for the PurchaseList component */
-.table-responsive {
+Custom styles for the PurchaseList component .table-responsive {
   margin-top: 20px;
 }
 
-.table th, .table td {
+.table th,
+.table td {
   text-align: center;
 }
 
@@ -41,7 +41,8 @@ h1 {
 }
 
 @media (max-width: 768px) {
-  .table th, .table td {
+  .table th,
+  .table td {
     font-size: 0.9rem;
   }
 
